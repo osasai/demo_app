@@ -1,6 +1,7 @@
 == Study for Git!!
 
 It's wonderful.
+Not Bad.
 
 *This is study for git.
 
