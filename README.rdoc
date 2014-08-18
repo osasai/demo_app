@@ -1,5 +1,7 @@
 == Study for Git!!
 
+It's wonderful.
+
 *This is study for git.
 
 Things you may want to cover:
