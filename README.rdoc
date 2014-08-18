@@ -1,7 +1,6 @@
-== README
+== Study
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*This is study for git.
 
 Things you may want to cover:
 
